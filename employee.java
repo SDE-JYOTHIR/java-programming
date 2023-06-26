@@ -34,7 +34,7 @@ public class employee
 
         }
         
-     boolean state = false;
+     
      System.out.println("\nEnter the Employee Number to get details of a employee:");
      int num2= sc1.nextInt();
      for(int i=0;i<num;i++){
